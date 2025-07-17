@@ -23,7 +23,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-After installing osTicket, follow these literal step-by-step instructions to secure and configure your helpdesk for production use.
+
 
 ---
 
